@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/afg-memory-app/static/css/main.fa13dd5a.css",
+    "main.js": "/afg-memory-app/static/js/main.939f18ec.js",
+    "index.html": "/afg-memory-app/index.html",
+    "main.fa13dd5a.css.map": "/afg-memory-app/static/css/main.fa13dd5a.css.map",
+    "main.939f18ec.js.map": "/afg-memory-app/static/js/main.939f18ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa13dd5a.css",
+    "static/js/main.939f18ec.js"
+  ]
+}
