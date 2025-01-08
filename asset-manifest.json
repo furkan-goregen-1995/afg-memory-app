@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/afg-memory-app/static/css/main.fa13dd5a.css",
-    "main.js": "/afg-memory-app/static/js/main.939f18ec.js",
+    "main.js": "/afg-memory-app/static/js/main.18c769b6.js",
     "index.html": "/afg-memory-app/index.html",
     "main.fa13dd5a.css.map": "/afg-memory-app/static/css/main.fa13dd5a.css.map",
-    "main.939f18ec.js.map": "/afg-memory-app/static/js/main.939f18ec.js.map"
+    "main.18c769b6.js.map": "/afg-memory-app/static/js/main.18c769b6.js.map"
   },
   "entrypoints": [
     "static/css/main.fa13dd5a.css",
-    "static/js/main.939f18ec.js"
+    "static/js/main.18c769b6.js"
   ]
 }
